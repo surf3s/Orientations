@@ -41,4 +41,6 @@ figure*.tif
 *.Rproj
 .*
 Orientations (GitHub).*
+.gitignore
+
 

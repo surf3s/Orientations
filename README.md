@@ -6,7 +6,7 @@ This repository contains the code and markdown document (with supporting files) 
 
 If you find problems with this code, I welcome bug fixes.  Please either contact me or if you are familiar with GitHub you can use a pull request.  If the changes are substantial, I would appreciate being contacted first.
 
-Please cite McPherron 2018 if the code is used for publication.
+Please cite *McPherron 2018* if the code is used in publications.
 
 ### Converting bearing and plunge angles for use with this code
 
@@ -14,3 +14,7 @@ The orientation.R code assumes that the data come from a total station with two 
 
 Please, if you find an errors with this approach, let me know.
 
+### Bug/Feature Fixes
+
+- In the original PLOS One paper I had added a small feature to highlight objects with high isotropy.  I have since removed this (thanks to Sam Lin for spotting this feature, I mean bug).
+- I changed package references from require() to library() to make it easier to know what libraries to install.
