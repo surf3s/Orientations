@@ -38,4 +38,6 @@ rsconnect/
 figure*.tif
 *.pdf
 *.tex
-*.rproj
+*.Rproj
+.*
+
