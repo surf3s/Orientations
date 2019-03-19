@@ -87,15 +87,23 @@ To view spatial variation in object orientations, Benn indices are calculated fo
 
 The effect of sample size and of varying proportions of planar and linear objects on the 95% confidence intervals of the Benn ratios and on the range of possible interpretations is demonstrated in Fig 1. In Fig 2, the Benn ratios and 95% confidence intervals are shown for all the main layers from the La Ferrassie excavations. Fig 3 and Table 2 show the results of pair-wise permutations test between the Benn ratios for each layer combination. Finally, Figs 4-8 show how the Benn ratios vary spatial within each layer, and Fig 9 shows how changing the sampling size window impacts the results for La Ferrassie Layer 2.
 
+![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure1-1.png)
+
 **Fig 1. Confidence intervals on simulated data showing the effect of sample size with varying proportions of planar and linear data. The black dot in each case shows the actual calculated value for that assemblage. Each column of figures has the same sample size. Each row of figures has the same proportional mix of planar and linear samples. E1, E2 and E3 are the first, second and third eigenvalues respectively. Comparative deposition data from \[5\].**
+
+![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure2-1.png)
 
 **Fig 2. Benn diagrams for each La Ferrassie layers. The dot indicates the calculated values for that layer. The confidence intervals represent a probability of 0.95 based on 1000 times resampling.**
 
+![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%203-1.png)
+
 **Fig 3. Benn diagram for all La Ferrassie layers. Connecting lines indicate layers that do not differ statistically at the p=0.05 level based on a permutations test with 1000 times resampling (see Table 2).**
+
+![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-1.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-2.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-3.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-4.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-5.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-6.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-7.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-8.png)![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%204-9.png)
 
 **Figs 4-8. Artifact orientations for La Ferrassie. The plan view shows all two-shot bone and stone artifacts. The underlying image is a georeference orthophoto extracted from a structure from motion model. With the exception of Layer 1, the plan view points are color-coded using Benn statistics computed on the 40 closest artifacts. The color key is shown in the Benn diagram where these same points are also plotted as black dots. Each figure also includes a Schmidt lower hemisphere plot summarizing bearing and plunge angles with a superimposed Rose diagram summarizing only the bearing angle distributions \[1\]. Below this is a circular histogram of plunge angles. Though the sample size in Layer 1 is not large enough for spatial color coding, the layer is included here for completeness of the presentation of La Ferrassie artifact orientations.**
 
-**Fig 9. Artifact orientations for La Ferrassie Layer 2 with varying sampling windows (see also Figs 4-8 for the color key and for a sampling window of 40). With a small sampling window more small scale variation is apparent but it is less clear whether this is meaningful variability or sampling bias. With a large sampling window, the spatial variability in this layer is less apparent as the color of each individual point approaches the assemblage average.**
+![](McPherron_2018_-_PLOS_One_files/figure-markdown_github/figure%205-1.png) **Fig 9. Artifact orientations for La Ferrassie Layer 2 with varying sampling windows (see also Figs 4-8 for the color key and for a sampling window of 40). With a small sampling window more small scale variation is apparent but it is less clear whether this is meaningful variability or sampling bias. With a large sampling window, the spatial variability in this layer is less apparent as the color of each individual point approaches the assemblage average.**
 
 **Discussion**
 
