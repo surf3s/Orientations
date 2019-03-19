@@ -36,6 +36,7 @@ vignettes/*.html
 rsconnect/
 
 figure*.tif
+McPherron*.html
 #*.pdf
 *.tex
 *.Rproj
