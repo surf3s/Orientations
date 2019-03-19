@@ -6,7 +6,7 @@ output: github_document
 bibliography: vignette.bib
 ---
 
-```{r initialize,echo = FALSE, warning = FALSE, message = FALSE}
+```{r initialize, echo = FALSE, warning = FALSE, message = FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
@@ -48,7 +48,7 @@ print(xtable(circular_statistics(lf)), scalebox='0.6', floating = FALSE)
 
 To have the same statistics by archaeological level:
 
-```{r,results = 'asis'}
+```{r, results = 'asis'}
 print(xtable(circular_statistics(lf, level = lf$LEVEL)), scalebox = '.65', floating = FALSE)
 ```
 
