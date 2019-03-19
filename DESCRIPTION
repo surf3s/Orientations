@@ -1,0 +1,12 @@
+Package: Orientations
+Title: Analysis and plotting the orientations (bearing and plunge) of objects
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shannon",
+           family = "McPherron",
+           role = c("aut", "cre"),
+           email = "mcpherron@eva.mpg.de")
+Description: Included here are a set of functions for working with orientation data describing the long axis of objects (bearing and plunge). The functions are particularly designed to work with data coming from a total station where a point at each end of the long axis is recorded (a vector); however, the functions more generally work with either vector data or bearing/plunge angles.  Emphasis is placed on statistical testing and on plotting.  Please cite McPherron 2018 in PLOS One when using this code.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
